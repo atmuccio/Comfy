@@ -1,0 +1,18 @@
+package-as: Comfy
+
+enable-nolib-creation: no
+
+ignore:
+  - .git
+  - .github
+  - .gitignore
+  - .gitattributes
+  - .claude
+  - .luacheckrc
+  - .editorconfig
+  - README.md
+  - CHANGELOG.md
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

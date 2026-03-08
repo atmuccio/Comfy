@@ -1,0 +1,15 @@
+## Interface: 120001
+## Title: Comfy
+## Notes: Personal quality of life tweaks - tooltips, crafting orders, minimap button, and more
+## Author: atmuccio
+## Version: @project-version@
+## IconTexture: Interface\Icons\INV_Misc_Bag_Enchanted
+## SavedVariables: ComfyDB
+## Category: Interface Enhancements
+
+Core.lua
+Modules\Settings.lua
+Modules\MinimapButton.lua
+Modules\Tooltips.lua
+Modules\PlayerFrame.lua
+Modules\CraftingOrders.lua
