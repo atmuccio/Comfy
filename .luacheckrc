@@ -79,6 +79,7 @@ read_globals = {
     -- WoW API - Crafting
     "C_CraftingOrders",
     "C_TradeSkillUI",
+    "C_Spell",
     "C_Timer",
     "C_Item",
     "C_Texture",
@@ -88,6 +89,9 @@ read_globals = {
     -- WoW API - Other
     "GameTooltip_SetDefaultAnchor",
     "GetItemInfo",
+    "GetMoneyString",
+    "IsInGuild",
+    "CreateSettingsListSectionHeaderInitializer",
     "C_CurrencyInfo",
     "StaticPopupDialogs",
     "StaticPopup_Show",
