@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.2] - 2026-04-21
+
+### Changed
+- Updated Interface version to 120005 for WoW 12.0.5 (Lingering Shadows)
+
 ## [1.0.0] - 2026-03-08
 
 ### Added
