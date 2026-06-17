@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3] - 2026-06-17
+
+### Changed
+- Updated Interface version to 120007 for WoW 12.0.7 (Midnight: Revelations)
+
 ## [1.0.2] - 2026-04-21
 
 ### Changed
