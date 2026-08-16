@@ -1,4 +1,4 @@
-## Interface: 120007
+## Interface: 120100
 ## Title: Comfy
 ## Notes: Personal quality of life tweaks - tooltips, crafting orders, minimap button, and more
 ## Author: atmuccio

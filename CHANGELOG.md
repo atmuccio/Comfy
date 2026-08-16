@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4] - 2026-08-16
+
+### Changed
+- Updated Interface version to 120100 for WoW 12.1.0 (Curse of Ula'tek)
+
+### Note
+- Apologies for the short delay on this update — I was away for a bit. Thanks for your patience, and back to it now!
+
 ## [1.0.3] - 2026-06-17
 
 ### Changed
